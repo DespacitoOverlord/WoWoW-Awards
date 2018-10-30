@@ -1,0 +1,26 @@
+body{
+    background-image: url("https://www.xmple.com/wallpaper/linear-brown-highlight-gradient-black-3840x2160-c2-000000-daa520-l-50-a-180-f-21.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: invert;
+    color:gold;
+    text-align: center;
+    font-family: 'Exo 2', sans-serif;
+}
+img {
+    width: 400px;
+}
+h3{
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+iframe{
+    width: 700px;
+    height: 400px;
+}
+/* Resize the background image to cover the entire container */
+img{
+    width: 400px;
+}
